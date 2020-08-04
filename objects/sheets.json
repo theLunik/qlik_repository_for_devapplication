@@ -1,0 +1,1940 @@
+[
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "08bd5c31-9a7c-4153-a431-83a1a1fc4934",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "title": "My new sheet (4)",
+        "description": ""
+      },
+      "rank": 0.04,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "columns": 24,
+      "rows": 12,
+      "cells": [],
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      }
+    },
+    "qChildren": []
+  },
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "1f495fca-1025-4a41-aa18-c46e9bc7ce95",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "title": "My new sheet (2)",
+        "description": ""
+      },
+      "rank": 0.02,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "columns": 24,
+      "rows": 12,
+      "cells": [],
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      }
+    },
+    "qChildren": []
+  },
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "71c131ad-d6d1-46b9-b4ab-13bd1e948d7c",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "title": "My new sheet (1)",
+        "description": ""
+      },
+      "rank": 0.01,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "columns": 24,
+      "rows": 12,
+      "cells": [],
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      }
+    },
+    "qChildren": []
+  },
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "7ed86bf5-4ab6-4b8d-a698-2bf4ae0df933",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "title": "My new sheet",
+        "description": "",
+        "isBlueprintItem": true
+      },
+      "rank": 0,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "columns": 24,
+      "rows": 12,
+      "cells": [
+        {
+          "name": "gYHCxAP",
+          "type": "auto-chart",
+          "col": 0,
+          "row": 0,
+          "colspan": 12,
+          "rowspan": 6,
+          "bounds": {
+            "y": 0,
+            "x": 0,
+            "width": 50,
+            "height": 50
+          }
+        },
+        {
+          "name": "gtKjxjj",
+          "type": "histogram",
+          "col": 12,
+          "row": 0,
+          "colspan": 12,
+          "rowspan": 6,
+          "bounds": {
+            "y": 0,
+            "x": 50,
+            "width": 50,
+            "height": 50
+          }
+        },
+        {
+          "name": "NnNUkju",
+          "type": "boxplot",
+          "col": 0,
+          "row": 6,
+          "colspan": 12,
+          "rowspan": 6,
+          "bounds": {
+            "y": 50,
+            "x": 0,
+            "width": 50,
+            "height": 50
+          }
+        },
+        {
+          "name": "LzWBESV",
+          "type": "boxplot",
+          "col": 12,
+          "row": 6,
+          "colspan": 12,
+          "rowspan": 6,
+          "bounds": {
+            "y": 50,
+            "x": 50,
+            "width": 50,
+            "height": 50
+          }
+        }
+      ],
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      }
+    },
+    "qChildren": [
+      {
+        "qProperty": {
+          "qInfo": {
+            "qId": "gYHCxAP",
+            "qType": "auto-chart"
+          },
+          "qMetaDef": {},
+          "qHyperCubeDef": {
+            "qDimensions": [],
+            "qMeasures": [
+              {
+                "qLibraryId": "nyDp",
+                "qDef": {
+                  "qTags": [],
+                  "qGrouping": "N",
+                  "qNumFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qAccumulate": 0,
+                  "qActiveExpression": 0,
+                  "qExpressions": []
+                },
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qAttributeExpressions": [],
+                "qAttributeDimensions": [],
+                "qCalcCond": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qTrendLines": []
+              }
+            ],
+            "qInterColumnSortOrder": [
+              0
+            ],
+            "qSuppressMissing": true,
+            "qInitialDataFetch": [],
+            "qReductionMode": "N",
+            "qMode": "S",
+            "qPseudoDimPos": -1,
+            "qNoOfLeftDims": -1,
+            "qMaxStackedCells": 5000,
+            "qCalcCond": {},
+            "qTitle": {},
+            "qCalcCondition": {
+              "qCond": {},
+              "qMsg": {}
+            },
+            "qColumnOrder": [],
+            "qExpansionState": []
+          },
+          "showTitles": false,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "showDetails": false,
+          "visualization": "auto-chart",
+          "qUndoExclude": {
+            "hashCode": 708262236,
+            "generated": {
+              "qHyperCubeDef": {
+                "qDimensions": [],
+                "qMeasures": [
+                  {
+                    "qLibraryId": "nyDp",
+                    "qDef": {
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "autoSort": true,
+                      "cId": "nvQbpLw",
+                      "numFormatFromTemplate": true,
+                      "measureAxis": {
+                        "min": 0,
+                        "max": 100
+                      },
+                      "conditionalColoring": {
+                        "useConditionalColoring": false,
+                        "singleColor": 3,
+                        "paletteSingleColor": {
+                          "index": 6
+                        },
+                        "segments": {
+                          "limits": [],
+                          "paletteColors": [
+                            {
+                              "index": 6
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "qSortBy": {
+                      "qSortByNumeric": -1,
+                      "qSortByLoadOrder": 1,
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": []
+                  }
+                ],
+                "qInterColumnSortOrder": [
+                  0
+                ],
+                "qSuppressMissing": true,
+                "qInitialDataFetch": [
+                  {
+                    "qLeft": 0,
+                    "qTop": 0,
+                    "qWidth": 500,
+                    "qHeight": 10
+                  }
+                ],
+                "qReductionMode": "N",
+                "qMode": "S",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              },
+              "showTitles": false,
+              "title": "",
+              "subtitle": "",
+              "footnote": "",
+              "showDetails": false,
+              "qStateName": "",
+              "showMeasureTitle": true,
+              "textAlign": "center",
+              "layoutBehavior": "responsive",
+              "fontSize": "M",
+              "useLink": false,
+              "sheetLink": "",
+              "openUrlInNewTab": true,
+              "qInfo": {
+                "qType": "kpi"
+              },
+              "visualization": "kpi",
+              "isRecommended": true,
+              "qLayoutExclude": {
+                "disabled": {},
+                "quarantine": {}
+              },
+              "recommendation": {
+                "options": {},
+                "analysis": {
+                  "analysis": "fact",
+                  "analysisGroup": "fact",
+                  "titleTemplate": [
+                    {
+                      "msgId": "cao.chart.fact.title",
+                      "msgParams": {
+                        "$$1": 0
+                      }
+                    }
+                  ],
+                  "msrs": [
+                    {
+                      "cType": "eLibItem",
+                      "libId": "nyDp",
+                      "expr": "nyDp",
+                      "fieldStats": {
+                        "valueRange": {
+                          "min": 1,
+                          "max": 1
+                        },
+                        "classification": [
+                          "measure"
+                        ]
+                      }
+                    }
+                  ]
+                },
+                "isExtendedAnalysis": false,
+                "matchRecord": {
+                  "analysisPrecedentId": "Msr-Aggr",
+                  "matches": [
+                    {
+                      "slot": "$$1",
+                      "slotRole": "measure",
+                      "libId": "nyDp",
+                      "libIdLabel": "mera1"
+                    }
+                  ],
+                  "precedentStats": {
+                    "matchedFields": 0,
+                    "uniquePrecedents": 0
+                  }
+                },
+                "relevance": 1,
+                "analysisIntentRelevance": 0.09000000000000001
+              }
+            }
+          }
+        },
+        "qChildren": []
+      },
+      {
+        "qProperty": {
+          "qInfo": {
+            "qId": "gtKjxjj",
+            "qType": "histogram"
+          },
+          "qMetaDef": {},
+          "qHyperCubeDef": {
+            "qDimensions": [
+              {
+                "qDef": {
+                  "qGrouping": "N",
+                  "qFieldDefs": [
+                    "Field_1"
+                  ],
+                  "qFieldLabels": [
+                    ""
+                  ],
+                  "qSortCriterias": [
+                    {
+                      "qSortByNumeric": 1,
+                      "qSortByAscii": 1,
+                      "qSortByLoadOrder": 1,
+                      "qExpression": {}
+                    }
+                  ],
+                  "qNumberPresentations": [],
+                  "qActiveField": 0,
+                  "autoSort": true,
+                  "cId": "eVTT",
+                  "othersLabel": "Другие"
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {
+                    "qv": "10"
+                  },
+                  "qOtherLimit": {
+                    "qv": "0"
+                  },
+                  "qOtherLimitMode": "OTHER_GE_LIMIT",
+                  "qSuppressOther": true,
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qOtherLabel": {
+                  "qv": "Другие"
+                },
+                "qTotalLabel": {},
+                "qCalcCond": {},
+                "qAttributeExpressions": [],
+                "qAttributeDimensions": [],
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                }
+              }
+            ],
+            "qMeasures": [],
+            "qInterColumnSortOrder": [
+              0
+            ],
+            "qSuppressMissing": true,
+            "qInitialDataFetch": [],
+            "qReductionMode": "N",
+            "qMode": "S",
+            "qPseudoDimPos": -1,
+            "qNoOfLeftDims": -1,
+            "qAlwaysFullyExpanded": true,
+            "qMaxStackedCells": 5000,
+            "qCalcCond": {},
+            "qTitle": {},
+            "qCalcCondition": {
+              "qCond": {},
+              "qMsg": {}
+            },
+            "qColumnOrder": [],
+            "qExpansionState": [],
+            "qLayoutExclude": {
+              "qHyperCubeDef": {
+                "qDimensions": [],
+                "qMeasures": [],
+                "qInterColumnSortOrder": [],
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "S",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              }
+            }
+          },
+          "bins": {
+            "auto": true,
+            "binMode": "maxCount",
+            "binCount": "",
+            "binSize": 10,
+            "offset": 0,
+            "countDistinct": false
+          },
+          "refLine": {
+            "refLines": []
+          },
+          "showTitles": true,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "showDetails": false,
+          "gridlines": {
+            "auto": true,
+            "spacing": 2
+          },
+          "dataPoint": {
+            "showLabels": false
+          },
+          "color": {
+            "bar": {
+              "paletteColor": {
+                "index": 6
+              }
+            }
+          },
+          "measureAxis": {
+            "show": "all",
+            "dock": "near",
+            "spacing": 1,
+            "autoMinMax": true,
+            "minMax": "min",
+            "min": 0,
+            "max": 10,
+            "label": ""
+          },
+          "dimensionAxis": {
+            "show": "all",
+            "label": "auto",
+            "dock": "near"
+          },
+          "visualization": "histogram",
+          "sorting": {
+            "autoSort": true
+          },
+          "qUndoExclude": {
+            "hashCode": -788643624,
+            "box": {
+              "qHyperCubeDef": {
+                "qDimensions": [
+                  {
+                    "qDef": {
+                      "qGrouping": "N",
+                      "qFieldDefs": [
+                        "=Class(aggr([Field_1],[Field_1]),2)"
+                      ],
+                      "qFieldLabels": [
+                        "Field_1"
+                      ],
+                      "qSortCriterias": [
+                        {
+                          "qSortByNumeric": 1,
+                          "qExpression": {}
+                        }
+                      ],
+                      "qNumberPresentations": [],
+                      "qActiveField": 0
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {},
+                      "qOtherLimit": {},
+                      "qOtherLimitMode": "OTHER_GT_LIMIT",
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qOtherLabel": {},
+                    "qTotalLabel": {},
+                    "qCalcCond": {},
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    }
+                  }
+                ],
+                "qMeasures": [
+                  {
+                    "qDef": {
+                      "qLabel": "Частота",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Count([Field_1])",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": []
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": []
+                  }
+                ],
+                "qInterColumnSortOrder": [
+                  0
+                ],
+                "qSuppressMissing": true,
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "S",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qAlwaysFullyExpanded": true,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": [],
+                "qLayoutExclude": {
+                  "qHyperCubeDef": {
+                    "qDimensions": [],
+                    "qMeasures": [],
+                    "qInterColumnSortOrder": [],
+                    "qInitialDataFetch": [],
+                    "qReductionMode": "N",
+                    "qMode": "S",
+                    "qPseudoDimPos": -1,
+                    "qNoOfLeftDims": -1,
+                    "qMaxStackedCells": 5000,
+                    "qCalcCond": {},
+                    "qTitle": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qColumnOrder": [],
+                    "qExpansionState": []
+                  }
+                }
+              }
+            },
+            "bins": {
+              "binSize": 2,
+              "offset": 0,
+              "binCount": {
+                "qValueExpression": {
+                  "qExpr": "=Ceil(Log10(Count([Field_1])) / Log10(2)) + 1"
+                }
+              }
+            }
+          }
+        },
+        "qChildren": []
+      },
+      {
+        "qProperty": {
+          "qInfo": {
+            "qId": "NnNUkju",
+            "qType": "boxplot"
+          },
+          "qMetaDef": {},
+          "boxplotDef": {
+            "qHyperCubeDef": {
+              "qDimensions": [
+                {
+                  "qDef": {
+                    "qGrouping": "N",
+                    "qFieldDefs": [
+                      "Field_1"
+                    ],
+                    "qFieldLabels": [
+                      ""
+                    ],
+                    "qSortCriterias": [
+                      {
+                        "qSortByNumeric": 1,
+                        "qSortByAscii": 1,
+                        "qSortByLoadOrder": 1,
+                        "qExpression": {}
+                      }
+                    ],
+                    "qNumberPresentations": [],
+                    "qActiveField": 0,
+                    "autoSort": true,
+                    "cId": "EgwZM",
+                    "othersLabel": "Другие"
+                  },
+                  "qOtherTotalSpec": {
+                    "qOtherMode": "OTHER_OFF",
+                    "qOtherCounted": {
+                      "qv": "10"
+                    },
+                    "qOtherLimit": {
+                      "qv": "0"
+                    },
+                    "qOtherLimitMode": "OTHER_GE_LIMIT",
+                    "qSuppressOther": true,
+                    "qForceBadValueKeeping": true,
+                    "qApplyEvenWhenPossiblyWrongResult": true,
+                    "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                    "qTotalMode": "TOTAL_OFF",
+                    "qReferencedExpression": {}
+                  },
+                  "qOtherLabel": {
+                    "qv": "Другие"
+                  },
+                  "qTotalLabel": {},
+                  "qCalcCond": {},
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  }
+                }
+              ],
+              "qMeasures": [
+                {
+                  "qLibraryId": "Qjyhe",
+                  "qDef": {
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "cId": "YhRWqjG",
+                    "numFormatFromTemplate": true
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": []
+                }
+              ],
+              "qInterColumnSortOrder": [
+                1,
+                0
+              ],
+              "qSuppressMissing": true,
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qAlwaysFullyExpanded": true,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qLayoutExclude": {
+                "qHyperCubeDef": {
+                  "qDimensions": [],
+                  "qMeasures": [],
+                  "qInterColumnSortOrder": [],
+                  "qInitialDataFetch": [],
+                  "qReductionMode": "N",
+                  "qMode": "S",
+                  "qPseudoDimPos": -1,
+                  "qNoOfLeftDims": -1,
+                  "qMaxStackedCells": 5000,
+                  "qCalcCond": {},
+                  "qTitle": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qColumnOrder": [],
+                  "qExpansionState": []
+                }
+              }
+            },
+            "calculations": {
+              "auto": true,
+              "mode": "tukey",
+              "parameters": {
+                "tukey": 1.5,
+                "fractiles": 0.01,
+                "stdDev": 3
+              }
+            },
+            "elements": {
+              "firstWhisker": {
+                "name": "",
+                "expression": null
+              },
+              "boxStart": {
+                "name": "",
+                "expression": null
+              },
+              "boxMiddle": {
+                "name": "",
+                "expression": null
+              },
+              "boxEnd": {
+                "name": "",
+                "expression": null
+              },
+              "lastWhisker": {
+                "name": "",
+                "expression": null
+              },
+              "outliers": {
+                "include": true
+              }
+            },
+            "presentation": {
+              "whiskers": {
+                "show": true
+              }
+            },
+            "color": {
+              "auto": true,
+              "mode": "primary",
+              "box": {
+                "paletteColor": {
+                  "index": -1,
+                  "color": "#e6e6e6"
+                }
+              },
+              "point": {
+                "paletteColor": {
+                  "index": 6,
+                  "color": "#4477aa"
+                }
+              },
+              "expressionIsColor": true
+            },
+            "sorting": {
+              "autoSort": true
+            }
+          },
+          "refLine": {
+            "refLines": []
+          },
+          "showTitles": true,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "showDetails": false,
+          "orientation": "vertical",
+          "gridlines": {
+            "auto": true,
+            "spacing": 2
+          },
+          "measureAxis": {
+            "show": "all",
+            "dock": "near",
+            "spacing": 1,
+            "autoMinMax": true,
+            "minMax": "min",
+            "min": 0,
+            "max": 10
+          },
+          "dimensionAxis": {
+            "show": "all",
+            "label": "auto",
+            "dock": "near"
+          },
+          "visualization": "boxplot",
+          "qUndoExclude": {
+            "hashCode": -1114589953,
+            "box": {
+              "qHyperCubeDef": {
+                "qDimensions": [],
+                "qMeasures": [
+                  {
+                    "qDef": {
+                      "qLabel": "Первый \"ус\"",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Rangemax(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 2,  [Field_1] )  ))",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "WdJaPBP"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "=if(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5) < Min( total  Aggr( 2,  [Field_1] )  ), 'Минимум', 'Начало поля - 1.5 IQR' )",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "firstWhisker"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Начало поля",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "FCtjs"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Первый квартиль'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxStart"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Осевая линия",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Median( total  Aggr( 2,  [Field_1] )  )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "eLXygR"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Медианное'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxMiddle"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Конец поля",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "nxtYU"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Третий квартиль'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxEnd"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Последний \"ус\"",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Rangemin(Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 2,  [Field_1] )  ))",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "WzJzCP"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "=if(Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5) > Max( total  Aggr( 2,  [Field_1] )  ), 'Максимум', 'Конец поля + 1.5 IQR' )",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "lastWhisker"
+                  }
+                ],
+                "qInterColumnSortOrder": [],
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "S",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              }
+            },
+            "outliers": {
+              "qHyperCubeDef": {
+                "qDimensions": [
+                  {
+                    "qDef": {
+                      "qGrouping": "N",
+                      "qFieldDefs": [
+                        "=aggr( If( 2 < Rangemax(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 2,  [Field_1] )  )) or 2 > Rangemin(Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 2,  [Field_1] )  )),  [Field_1] ), [Field_1] )"
+                      ],
+                      "qFieldLabels": [
+                        ""
+                      ],
+                      "qSortCriterias": [
+                        {
+                          "qSortByNumeric": 1,
+                          "qSortByAscii": 1,
+                          "qSortByLoadOrder": 1,
+                          "qSortByExpression": 1,
+                          "qExpression": {
+                            "qv": "=aggr( If( 2 < Rangemax(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 2,  [Field_1] )  )), Rangemax(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 2,  [Field_1] )  )) - 2, 2 - Rangemin(Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 2,  [Field_1] )  )) ), [Field_1] )"
+                          }
+                        }
+                      ],
+                      "qNumberPresentations": [],
+                      "qActiveField": 0,
+                      "autoSort": true,
+                      "cId": "qznkcPA",
+                      "othersLabel": "Другие"
+                    },
+                    "qNullSuppression": true,
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {
+                        "qv": "10"
+                      },
+                      "qOtherLimit": {
+                        "qv": "0"
+                      },
+                      "qOtherLimitMode": "OTHER_GE_LIMIT",
+                      "qSuppressOther": true,
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qOtherLabel": {
+                      "qv": "Другие"
+                    },
+                    "qTotalLabel": {},
+                    "qCalcCond": {},
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    }
+                  },
+                  {
+                    "qDef": {
+                      "qGrouping": "N",
+                      "qFieldDefs": [
+                        "Field_1"
+                      ],
+                      "qFieldLabels": [
+                        ""
+                      ],
+                      "qSortCriterias": [
+                        {
+                          "qSortByNumeric": 1,
+                          "qSortByAscii": 1,
+                          "qSortByLoadOrder": 1,
+                          "qExpression": {}
+                        }
+                      ],
+                      "qNumberPresentations": [],
+                      "qActiveField": 0,
+                      "autoSort": true,
+                      "cId": "EgwZM",
+                      "othersLabel": "Другие"
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {
+                        "qv": "10"
+                      },
+                      "qOtherLimit": {
+                        "qv": "0"
+                      },
+                      "qOtherLimitMode": "OTHER_GE_LIMIT",
+                      "qSuppressOther": true,
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qOtherLabel": {
+                      "qv": "Другие"
+                    },
+                    "qTotalLabel": {},
+                    "qCalcCond": {},
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    }
+                  }
+                ],
+                "qMeasures": [
+                  {
+                    "qDef": {
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "=aggr( If( 2 < Rangemax(Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 2,  [Field_1] )  )) or 2 > Rangemin(Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 2,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 2,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 2,  [Field_1] )  )), 2 ), [Field_1] )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "autoSort": true,
+                      "cId": "YhRWqjG",
+                      "numFormatFromTemplate": true
+                    },
+                    "qSortBy": {
+                      "qSortByNumeric": -1,
+                      "qSortByLoadOrder": 1,
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": []
+                  }
+                ],
+                "qInterColumnSortOrder": [
+                  0,
+                  1,
+                  2
+                ],
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "K",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qAlwaysFullyExpanded": true,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              }
+            }
+          }
+        },
+        "qChildren": []
+      },
+      {
+        "qProperty": {
+          "qInfo": {
+            "qId": "LzWBESV",
+            "qType": "boxplot"
+          },
+          "qMetaDef": {},
+          "boxplotDef": {
+            "qHyperCubeDef": {
+              "qDimensions": [
+                {
+                  "qDef": {
+                    "qGrouping": "N",
+                    "qFieldDefs": [
+                      "Field_1"
+                    ],
+                    "qFieldLabels": [
+                      ""
+                    ],
+                    "qSortCriterias": [
+                      {
+                        "qSortByNumeric": 1,
+                        "qSortByAscii": 1,
+                        "qSortByLoadOrder": 1,
+                        "qExpression": {}
+                      }
+                    ],
+                    "qNumberPresentations": [],
+                    "qActiveField": 0,
+                    "autoSort": true,
+                    "cId": "jwqDPS",
+                    "othersLabel": "Другие"
+                  },
+                  "qOtherTotalSpec": {
+                    "qOtherMode": "OTHER_OFF",
+                    "qOtherCounted": {
+                      "qv": "10"
+                    },
+                    "qOtherLimit": {
+                      "qv": "0"
+                    },
+                    "qOtherLimitMode": "OTHER_GE_LIMIT",
+                    "qSuppressOther": true,
+                    "qForceBadValueKeeping": true,
+                    "qApplyEvenWhenPossiblyWrongResult": true,
+                    "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                    "qTotalMode": "TOTAL_OFF",
+                    "qReferencedExpression": {}
+                  },
+                  "qOtherLabel": {
+                    "qv": "Другие"
+                  },
+                  "qTotalLabel": {},
+                  "qCalcCond": {},
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  }
+                }
+              ],
+              "qMeasures": [
+                {
+                  "qLibraryId": "nyDp",
+                  "qDef": {
+                    "qTags": [],
+                    "qGrouping": "N",
+                    "qNumFormat": {
+                      "qType": "U",
+                      "qnDec": 10,
+                      "qUseThou": 0
+                    },
+                    "qAccumulate": 0,
+                    "qActiveExpression": 0,
+                    "qExpressions": [],
+                    "autoSort": true,
+                    "cId": "YWfkaUY",
+                    "numFormatFromTemplate": true
+                  },
+                  "qSortBy": {
+                    "qSortByNumeric": -1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  },
+                  "qAttributeExpressions": [],
+                  "qAttributeDimensions": [],
+                  "qCalcCond": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qTrendLines": []
+                }
+              ],
+              "qInterColumnSortOrder": [
+                1,
+                0
+              ],
+              "qSuppressMissing": true,
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qAlwaysFullyExpanded": true,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": [],
+              "qLayoutExclude": {
+                "qHyperCubeDef": {
+                  "qDimensions": [],
+                  "qMeasures": [],
+                  "qInterColumnSortOrder": [],
+                  "qInitialDataFetch": [],
+                  "qReductionMode": "N",
+                  "qMode": "S",
+                  "qPseudoDimPos": -1,
+                  "qNoOfLeftDims": -1,
+                  "qMaxStackedCells": 5000,
+                  "qCalcCond": {},
+                  "qTitle": {},
+                  "qCalcCondition": {
+                    "qCond": {},
+                    "qMsg": {}
+                  },
+                  "qColumnOrder": [],
+                  "qExpansionState": []
+                }
+              }
+            },
+            "calculations": {
+              "auto": true,
+              "mode": "tukey",
+              "parameters": {
+                "tukey": 1.5,
+                "fractiles": 0.01,
+                "stdDev": 3
+              }
+            },
+            "elements": {
+              "firstWhisker": {
+                "name": "",
+                "expression": null
+              },
+              "boxStart": {
+                "name": "",
+                "expression": null
+              },
+              "boxMiddle": {
+                "name": "",
+                "expression": null
+              },
+              "boxEnd": {
+                "name": "",
+                "expression": null
+              },
+              "lastWhisker": {
+                "name": "",
+                "expression": null
+              },
+              "outliers": {
+                "include": true
+              }
+            },
+            "presentation": {
+              "whiskers": {
+                "show": true
+              }
+            },
+            "color": {
+              "auto": true,
+              "mode": "primary",
+              "box": {
+                "paletteColor": {
+                  "index": -1,
+                  "color": "#e6e6e6"
+                }
+              },
+              "point": {
+                "paletteColor": {
+                  "index": 6,
+                  "color": "#4477aa"
+                }
+              },
+              "expressionIsColor": true
+            },
+            "sorting": {
+              "autoSort": true
+            }
+          },
+          "refLine": {
+            "refLines": []
+          },
+          "showTitles": true,
+          "title": "",
+          "subtitle": "",
+          "footnote": "",
+          "showDetails": false,
+          "orientation": "vertical",
+          "gridlines": {
+            "auto": true,
+            "spacing": 2
+          },
+          "measureAxis": {
+            "show": "all",
+            "dock": "near",
+            "spacing": 1,
+            "autoMinMax": true,
+            "minMax": "min",
+            "min": 0,
+            "max": 10
+          },
+          "dimensionAxis": {
+            "show": "all",
+            "label": "auto",
+            "dock": "near"
+          },
+          "visualization": "boxplot",
+          "qUndoExclude": {
+            "hashCode": -1284407987,
+            "box": {
+              "qHyperCubeDef": {
+                "qDimensions": [],
+                "qMeasures": [
+                  {
+                    "qDef": {
+                      "qLabel": "Первый \"ус\"",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Rangemax(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 1,  [Field_1] )  ))",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "PeETXL"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "=if(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5) < Min( total  Aggr( 1,  [Field_1] )  ), 'Минимум', 'Начало поля - 1.5 IQR' )",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "firstWhisker"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Начало поля",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "PuPfym"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Первый квартиль'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxStart"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Осевая линия",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Median( total  Aggr( 1,  [Field_1] )  )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "nxUUdp"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Медианное'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxMiddle"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Конец поля",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "jdvpp"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "='Третий квартиль'",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "boxEnd"
+                  },
+                  {
+                    "qDef": {
+                      "qLabel": "Последний \"ус\"",
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "Rangemin(Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 1,  [Field_1] )  ))",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "cId": "XMtusr"
+                    },
+                    "qSortBy": {
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [
+                      {
+                        "qExpression": "=if(Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5) > Max( total  Aggr( 1,  [Field_1] )  ), 'Максимум', 'Конец поля + 1.5 IQR' )",
+                        "qAttribute": true,
+                        "qNumFormat": {
+                          "qType": "U",
+                          "qnDec": 10,
+                          "qUseThou": 0
+                        },
+                        "id": "tooltip"
+                      }
+                    ],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": [],
+                    "boxElement": "lastWhisker"
+                  }
+                ],
+                "qInterColumnSortOrder": [],
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "S",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              }
+            },
+            "outliers": {
+              "qHyperCubeDef": {
+                "qDimensions": [
+                  {
+                    "qDef": {
+                      "qGrouping": "N",
+                      "qFieldDefs": [
+                        "=aggr( If( 1 < Rangemax(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 1,  [Field_1] )  )) or 1 > Rangemin(Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 1,  [Field_1] )  )),  [Field_1] ), [Field_1] )"
+                      ],
+                      "qFieldLabels": [
+                        ""
+                      ],
+                      "qSortCriterias": [
+                        {
+                          "qSortByNumeric": 1,
+                          "qSortByAscii": 1,
+                          "qSortByLoadOrder": 1,
+                          "qSortByExpression": 1,
+                          "qExpression": {
+                            "qv": "=aggr( If( 1 < Rangemax(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 1,  [Field_1] )  )), Rangemax(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 1,  [Field_1] )  )) - 1, 1 - Rangemin(Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 1,  [Field_1] )  )) ), [Field_1] )"
+                          }
+                        }
+                      ],
+                      "qNumberPresentations": [],
+                      "qActiveField": 0,
+                      "autoSort": true,
+                      "cId": "bSrTgnP",
+                      "othersLabel": "Другие"
+                    },
+                    "qNullSuppression": true,
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {
+                        "qv": "10"
+                      },
+                      "qOtherLimit": {
+                        "qv": "0"
+                      },
+                      "qOtherLimitMode": "OTHER_GE_LIMIT",
+                      "qSuppressOther": true,
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qOtherLabel": {
+                      "qv": "Другие"
+                    },
+                    "qTotalLabel": {},
+                    "qCalcCond": {},
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    }
+                  },
+                  {
+                    "qDef": {
+                      "qGrouping": "N",
+                      "qFieldDefs": [
+                        "Field_1"
+                      ],
+                      "qFieldLabels": [
+                        ""
+                      ],
+                      "qSortCriterias": [
+                        {
+                          "qSortByNumeric": 1,
+                          "qSortByAscii": 1,
+                          "qSortByLoadOrder": 1,
+                          "qExpression": {}
+                        }
+                      ],
+                      "qNumberPresentations": [],
+                      "qActiveField": 0,
+                      "autoSort": true,
+                      "cId": "jwqDPS",
+                      "othersLabel": "Другие"
+                    },
+                    "qOtherTotalSpec": {
+                      "qOtherMode": "OTHER_OFF",
+                      "qOtherCounted": {
+                        "qv": "10"
+                      },
+                      "qOtherLimit": {
+                        "qv": "0"
+                      },
+                      "qOtherLimitMode": "OTHER_GE_LIMIT",
+                      "qSuppressOther": true,
+                      "qForceBadValueKeeping": true,
+                      "qApplyEvenWhenPossiblyWrongResult": true,
+                      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                      "qTotalMode": "TOTAL_OFF",
+                      "qReferencedExpression": {}
+                    },
+                    "qOtherLabel": {
+                      "qv": "Другие"
+                    },
+                    "qTotalLabel": {},
+                    "qCalcCond": {},
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    }
+                  }
+                ],
+                "qMeasures": [
+                  {
+                    "qDef": {
+                      "qTags": [],
+                      "qGrouping": "N",
+                      "qDef": "=aggr( If( 1 < Rangemax(Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 ) - ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Min( total  Aggr( 1,  [Field_1] )  )) or 1 > Rangemin(Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) + ((Fractile( total  Aggr( 1,  [Field_1] ) ,0.75 ) - Fractile( total  Aggr( 1,  [Field_1] ) ,0.25 )) * 1.5), Max( total  Aggr( 1,  [Field_1] )  )), 1 ), [Field_1] )",
+                      "qNumFormat": {
+                        "qType": "U",
+                        "qnDec": 10,
+                        "qUseThou": 0
+                      },
+                      "qAccumulate": 0,
+                      "qActiveExpression": 0,
+                      "qExpressions": [],
+                      "autoSort": true,
+                      "cId": "YWfkaUY",
+                      "numFormatFromTemplate": true
+                    },
+                    "qSortBy": {
+                      "qSortByNumeric": -1,
+                      "qSortByLoadOrder": 1,
+                      "qExpression": {}
+                    },
+                    "qAttributeExpressions": [],
+                    "qAttributeDimensions": [],
+                    "qCalcCond": {},
+                    "qCalcCondition": {
+                      "qCond": {},
+                      "qMsg": {}
+                    },
+                    "qTrendLines": []
+                  }
+                ],
+                "qInterColumnSortOrder": [
+                  0,
+                  1,
+                  2
+                ],
+                "qInitialDataFetch": [],
+                "qReductionMode": "N",
+                "qMode": "K",
+                "qPseudoDimPos": -1,
+                "qNoOfLeftDims": -1,
+                "qAlwaysFullyExpanded": true,
+                "qMaxStackedCells": 5000,
+                "qCalcCond": {},
+                "qTitle": {},
+                "qCalcCondition": {
+                  "qCond": {},
+                  "qMsg": {}
+                },
+                "qColumnOrder": [],
+                "qExpansionState": []
+              }
+            }
+          }
+        },
+        "qChildren": []
+      }
+    ]
+  },
+  {
+    "qProperty": {
+      "qInfo": {
+        "qId": "b07e9885-3429-4986-9ee2-770059450b2e",
+        "qType": "sheet"
+      },
+      "qMetaDef": {
+        "title": "My new sheet (3)",
+        "description": ""
+      },
+      "rank": 0.03,
+      "thumbnail": {
+        "qStaticContentUrlDef": {}
+      },
+      "columns": 24,
+      "rows": 12,
+      "cells": [],
+      "qChildListDef": {
+        "qData": {
+          "title": "/title"
+        }
+      },
+      "gridResolution": "small",
+      "layoutOptions": {
+        "mobileLayout": "LIST"
+      }
+    },
+    "qChildren": []
+  }
+]

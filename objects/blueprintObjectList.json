@@ -1,0 +1,62 @@
+{
+  "qInfos": [
+    {
+      "qId": "08bd5c31-9a7c-4153-a431-83a1a1fc4934",
+      "qType": "sheet",
+      "modifiedDate": "2020-08-03T13:45:21.032Z"
+    },
+    {
+      "qId": "1f495fca-1025-4a41-aa18-c46e9bc7ce95",
+      "qType": "sheet",
+      "modifiedDate": "2020-08-03T13:18:16.969Z"
+    },
+    {
+      "qId": "71c131ad-d6d1-46b9-b4ab-13bd1e948d7c",
+      "qType": "sheet",
+      "modifiedDate": "2020-08-03T13:10:51.688Z"
+    },
+    {
+      "qId": "7ed86bf5-4ab6-4b8d-a698-2bf4ae0df933",
+      "qType": "sheet",
+      "modifiedDate": "2020-07-31T10:33:13.403Z"
+    },
+    {
+      "qId": "LoadModel",
+      "qType": "LoadModel"
+    },
+    {
+      "qId": "LzWBESV",
+      "qType": "boxplot"
+    },
+    {
+      "qId": "NnNUkju",
+      "qType": "boxplot"
+    },
+    {
+      "qId": "Qjyhe",
+      "qType": "measure"
+    },
+    {
+      "qId": "b07e9885-3429-4986-9ee2-770059450b2e",
+      "qType": "sheet",
+      "modifiedDate": "2020-08-03T13:39:30.731Z"
+    },
+    {
+      "qId": "e72450f0-76fb-42c2-811b-3cb6279c5988",
+      "qType": "appprops",
+      "modifiedDate": "2020-07-31T09:17:15.158Z"
+    },
+    {
+      "qId": "gYHCxAP",
+      "qType": "auto-chart"
+    },
+    {
+      "qId": "gtKjxjj",
+      "qType": "histogram"
+    },
+    {
+      "qId": "nyDp",
+      "qType": "measure"
+    }
+  ]
+}
